@@ -36,7 +36,7 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,bootstrap,tailwind,laravel,nodejs,flutter,express,firebase,figma,postman,jquery,stackoverflow,ps,ai,ae" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,bootstrap,tailwind,laravel,nodejs,flutter,express,firebase,figma,postman,jquery,stackoverflow,ps,ai,ae" height="40" />
 </div>
 
 ###
@@ -46,11 +46,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fhatoni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fhatoni&show_icons=true&theme=default" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhatoni&layout=compact&theme=default" alt="Top languages" />
-</p>
 
 ###
 
