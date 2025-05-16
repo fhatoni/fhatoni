@@ -10,7 +10,7 @@
 ## 🔧 Teknologi & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=php,html,css,laravel,nodejs,mysql,tailwind,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Stats
