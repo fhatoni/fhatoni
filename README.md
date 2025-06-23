@@ -93,9 +93,7 @@
 
 ###
 
-<div align="center">
  [![GitHub Streak](https://streak-stats.demolab.com/?user=fhatoni)](https://git.io/streak-stats)
-</div>
 
 ###
 
