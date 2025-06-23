@@ -93,7 +93,11 @@
 
 ###
 
+<div align="center">
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fhatoni&theme=algolia&show_icons=true)
+
+</div>
 
 ###
 
